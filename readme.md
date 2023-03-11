@@ -2,7 +2,8 @@
 This is a Java application that simulates a shopping cart in a supermarket. The application prompts the user to input an item number and item aisle, and then provides three options: add a new item, remove an item, or checkout.
 
 ## Preview
-![usage](https://github.com/doughtyphilipe/Shopping_Cart/blob/main/shoppingcart.gif)
+![shoppingcart](https://user-images.githubusercontent.com/123315352/224511710-02cdca2e-fe36-4e83-820b-0ef922b2eb4b.gif)
+
 
 ## Features
 Prompt user to input an item number and item aisle
